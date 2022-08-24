@@ -1,19 +1,38 @@
 # Portfolio 2
 
-## Link
-https://aksmagic31.github.io/portfolio-2/
+## Table of Contents
+- [Description](#description)
+- [Link](#Link)
+- [Technology](#technology)
+- [Usage](#usage)
+- [Usage](#usage)
+- [License](#license)
 
-## My Title
-
-Wenyu's portfolio website
-
-## My Goal
-
-This is my website for my portfolio and for other people to get to know me a little bit more and lsit my skills
 
 ## Description
 
-I used CSS and HTML mainly to create a basic website where i will have a little information about myself, feature my future projects and provide contact information for employers who wants to know more about me.
+This is Wenyu Zhang's portfolio website listing the developers skills and portfolio with updated projects 1 and 2.
+
+## Link
+https://aksmagic31.github.io/portfolio-2/
 
 
+## Usage
 
+Right Click index.html and open in browser.
+
+## Technology
+
+1. HTML
+
+2. CSS Styles Sheet
+
+## Questions
+Please contact me with the methods below:
+- Github Username: aksmagic31
+- Github Link: https://github.com/aksmagic31 
+- Email: sammyzhang31@qq.com
+
+## License
+
+- Licensed under the:  MIT LICENSE
